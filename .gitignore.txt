@@ -1,0 +1,12 @@
+# Runtime logs, memory, temp
+runlog.jsonl
+memory/
+tools/input.json
+
+# Sensitive configs
+config/config.json
+
+# IDE/OS clutter
+*.DS_Store
+*.swp
+.vscode/
