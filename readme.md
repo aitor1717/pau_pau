@@ -19,19 +19,17 @@ The project is being put on hold for now. Since it’s in a very early stage, pl
 - Install requirements
 - Set OpenAI API key in the config file
 
-## Example Commands
+## Example Functionality
 
-    Create a tool that checks CPU memory usage
+    Create a tool that checks current CPU memory usage
 
-    Create a the JSON file for the tool
+    Create a JSON file for the tool
 
-    Run that tool
+    Run the new tool and print the results without restarting the session
 
-    Read the output file
+    Create file containing the output
 
-    Write a new file from input
-
-    Edit a tool and regenerate its manifest
+    Edit an existing tool
 
     Log results and self-improve
 
