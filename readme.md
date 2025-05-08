@@ -19,20 +19,20 @@ The project is being put on hold for now. Since it’s in a very early stage, pl
 ## Setup
 
 - Install requirements
-- Set OpenAI API key in the config file
+- Set your OpenAI API key in `config/config.json`
 
 ## Example Functionality
 
     Create a tool that checks current CPU memory usage
 
-    Create a JSON file for the tool
+    Generate a JSON manifest for the tool
 
-    Run the new tool and print the results without restarting the session
+    Run the tool and print results — no restart needed
 
-    Create file containing the output
+    Create a file containing the output
 
     Edit an existing tool
 
-    Log results and self-improve
+    Log results and iterate
 
 Pau Pau works best when treated as a system-level assistant for modular automation and orchestration. It does not aim to chat. It acts.
