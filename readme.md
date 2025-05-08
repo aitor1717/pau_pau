@@ -1,6 +1,6 @@
 # Pau Pau — Modular Self-Building AI Agent
 
-!(cover.jpg)
+![Grid](cover.png)
 
 Pau Pau is a command-line orchestrator that interprets natural language and executes local Python tools, or writes them from scratch if needed. It can run self-generated scripts, and improve iteratively. Designed for clarity, control, and autonomy.
 
