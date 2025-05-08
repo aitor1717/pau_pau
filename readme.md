@@ -1,5 +1,7 @@
 # Pau Pau — Modular Self-Building AI Agent
 
+![Grid](cover.jpg)
+
 Pau Pau is a command-line orchestrator that interprets natural language and executes local Python tools, or writes them from scratch if needed. It can run self-generated scripts, and improve iteratively. Designed for clarity, control, and autonomy.
 
 This project is the result of an obsession with AI agents. After getting lost in the guides and baffled by new architectures for agent networks, I decided to build a simple GPT wrapper with the key ability to read, write, and execute files locally. This simplification results in a clumsy CLI with unlimited potential for self-improvement. It can create and optimize its own memory architecture, produce QA tools for its own use, and read and improve its own main code.
