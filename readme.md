@@ -4,7 +4,7 @@ Pau Pau is a command-line orchestrator that interprets natural language and exec
 
 This project is the result of an obsession with AI agents. After getting lost in the guides and baffled by new architectures for agent networks, I decided to build a simple GPT wrapper with the key ability to read, write, and execute files locally. This simplification results in a clumsy CLI with unlimited potential for self-improvement. It can create and optimize its own memory architecture, produce QA tools for its own use, and read and improve its own main code.
 
-The project is being set aside for now. Since it’s in a very early stage, please consider adding security fallbacks before using it.
+The project is being put on hold for now. Since it’s in a very early stage, please consider adding security fallbacks before using it.
 
 ## Features
 
