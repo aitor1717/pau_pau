@@ -1,0 +1,12 @@
+{
+  "name": "list_directory",
+  "description": "Lists all files in a specified directory.",
+  "inputs": [
+    {
+      "name": "directory",
+      "type": "string",
+      "description": "Relative path to the directory to list files from"
+    }
+  ],
+  "file": "list_directory.py"
+}

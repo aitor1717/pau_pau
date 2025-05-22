@@ -1,0 +1,11 @@
+{
+  "name": "create_file",
+  "description": "Creates a file at a specified location with given content. Optional dry run supported.",
+  "inputs": [
+    { "name": "base", "type": "string", "description": "Base directory (e.g., 'memory')" },
+    { "name": "subfolder", "type": "string", "description": "Optional subfolder under base directory" },
+    { "name": "filename", "type": "string", "description": "Name of the file to create" },
+    { "name": "content", "type": "string", "description": "Content to write into the file" },
+    { "name": "dry_run", "type": "bool", "description": "If true, assume missing input parameters (eg: memory folder, test naming)" }
+  ]
+}

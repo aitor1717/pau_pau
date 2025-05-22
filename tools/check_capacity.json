@@ -1,0 +1,5 @@
+{
+  "name": "check_capacity",
+  "description": "Prints the current CPU memory usage.",
+  "inputs": []
+}

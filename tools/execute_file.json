@@ -1,0 +1,7 @@
+{
+  "name": "execute_file",
+  "description": "Executes a Python file given a relative path from the project root.",
+  "inputs": [
+    { "name": "path", "type": "string", "description": "Relative path to the Python file to execute" }
+  ]
+}

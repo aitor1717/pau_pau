@@ -1,0 +1,7 @@
+{
+  "name": "read_file",
+  "description": "Reads and returns the content of a file given a relative path from project root.",
+  "inputs": [
+    { "name": "path", "type": "string", "description": "Relative path to the file (e.g., 'memory/notes.txt')" }
+  ]
+}
