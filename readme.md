@@ -35,4 +35,4 @@ The project is being put on hold for now. Since it’s in a very early stage, pl
 
     Log results and iterate
 
-Pau Pau works best when treated as a system-level assistant for modular automation and orchestration. It does not aim to chat. It acts.
+Pau Pau works best when treated as an assistant for modular automation. It does not aim to chat; it aims to act.
